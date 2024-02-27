@@ -37,3 +37,5 @@ echo "export http_proxy=\"$http_proxy\"" >> ~/.bashrc
 echo "export https_proxy=\"$https_proxy\"" >> ~/.bashrc
 echo "export ftp_proxy=\"$ftp_proxy\"" >> ~/.bashrc
 echo "export no_proxy=\"localhost,127.0.0.1,::1\"" >> ~/.bashrc
+
+echo "test"
